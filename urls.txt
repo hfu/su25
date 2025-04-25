@@ -1,0 +1,2 @@
+https://github.com/naoyamorishita/bkk_tls_data/raw/refs/heads/main/dataset/bkk_background.pmtiles
+https://github.com/naoyamorishita/bkk_tls_data/raw/refs/heads/main/dataset/tls_all_background.pmtiles
